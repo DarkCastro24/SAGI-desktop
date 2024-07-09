@@ -1,0 +1,831 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{515D29E6-A943-430E-8014-1919AEC008A6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication1</RootNamespace>
+    <AssemblyName>WindowsFormsApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\..\..\Desktop\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.10.6.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Config\Conexion.cs" />
+    <Compile Include="Controlador\Constructores\ConstructorCambiarContraseña.cs" />
+    <Compile Include="Controlador\Constructores\Constructor_Empresa.cs" />
+    <Compile Include="Controlador\Constructores\Constructor_Login.cs" />
+    <Compile Include="Controlador\Constructores\Constructor_Recuperaciones.cs" />
+    <Compile Include="Controlador\Constructores\Constructor_Usuarios.cs" />
+    <Compile Include="Controlador\Constructores_CRUD\ConstructorBusquedaFiltrada.cs" />
+    <Compile Include="Controlador\Constructores_CRUD\ConstructorCompras.cs" />
+    <Compile Include="Controlador\Constructores_CRUD\ConstructorConfiguracion.cs" />
+    <Compile Include="Controlador\Constructores_CRUD\ConstructorExpedienteEmpleados.cs" />
+    <Compile Include="Controlador\Constructores_CRUD\ConstructorGaleria.cs" />
+    <Compile Include="Controlador\Constructores_CRUD\constructor_factura.cs" />
+    <Compile Include="Controlador\Constructores_CRUD\ConstructorExpedienteCliente.cs" />
+    <Compile Include="Controlador\Constructores_CRUD\Constructor_apartamento.cs" />
+    <Compile Include="Controlador\Constructores_CRUD\ConstructorTerrenos.cs" />
+    <Compile Include="Controlador\Constructores_CRUD\Constructor_casa.cs" />
+    <Compile Include="Controlador\Constructores_CRUD\Constructor_Citas.cs" />
+    <Compile Include="Controlador\validarcorreo.cs" />
+    <Compile Include="CrystalReport1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Graficas\ConstructorGrafica.cs" />
+    <Compile Include="Graficas\frmGraficas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Graficas\frmGraficas.Designer.cs">
+      <DependentUpon>frmGraficas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Graficas\FuncionesGrafica.cs" />
+    <Compile Include="Idioma\Ingles.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Ingles.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Modelo\Funciones_Correo\Conexion_correo.cs" />
+    <Compile Include="Modelo\Funciones CRUD\facturacion_apar.cs" />
+    <Compile Include="Modelo\Funciones CRUD\facturacion_casa.cs" />
+    <Compile Include="Modelo\Funciones CRUD\facturacion_terreno.cs" />
+    <Compile Include="Modelo\Funciones CRUD\funcionesBusquedaFiltrada.cs" />
+    <Compile Include="Modelo\Funciones CRUD\FuncionesCompras.cs" />
+    <Compile Include="Modelo\Funciones CRUD\FuncionesConfiguracion.cs" />
+    <Compile Include="Modelo\Funciones CRUD\funcionesEmpresa.cs" />
+    <Compile Include="Modelo\Funciones CRUD\funciones_apartamento.cs" />
+    <Compile Include="Modelo\Funciones CRUD\funciones_casa.cs" />
+    <Compile Include="Modelo\Funciones CRUD\Funciones_Citas.cs" />
+    <Compile Include="Modelo\Funciones CRUD\funciones_cliente.cs" />
+    <Compile Include="Modelo\Funciones CRUD\funciones_empleado.cs" />
+    <Compile Include="Modelo\Funciones CRUD\funciones_terreno.cs" />
+    <Compile Include="Modelo\Funciones CRUD\Municipio.cs" />
+    <Compile Include="Modelo\Funciones CRUD\Validaciones.cs" />
+    <Compile Include="Modelo\FuncionesPrimerUso.cs" />
+    <Compile Include="Modelo\Funciones_Correo\Recovery.cs" />
+    <Compile Include="Modelo\Funciones_Correo\referencia_correo.cs" />
+    <Compile Include="Modelo\ValidarRecuperacion.cs" />
+    <Compile Include="Reportes\DataSetClientes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetClientes.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DataSetDetalleApartamento.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetDetalleApartamento.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DataSetDetalleCasa.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetDetalleCasa.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DataSetDetalleTerreno.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetDetalleTerreno.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DataSetEmpleados.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetEmpleados.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DataSetFactura_Apar.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetFactura_Apar.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DataSetFactura_Casa.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetFactura_Casa.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DataSetFactura_Terreno.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetFactura_Terreno.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DataSetIngresoApartamentos.cs">
+      <DependentUpon>DataSetIngresoApartamentos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DataSetIngresoApartamentos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetIngresoApartamentos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DataSetIngresoCasas.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetIngresoCasas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DataSetIngresoTerrenos.cs">
+      <DependentUpon>DataSetIngresoTerrenos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DataSetIngresoTerrenos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetIngresoTerrenos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\Expediente_Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\Expediente_Clientes.Designer.cs">
+      <DependentUpon>Expediente_Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\Info_Apar.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Info_Apar.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\ReporteDetalleApartamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\ReporteDetalleApartamento.Designer.cs">
+      <DependentUpon>ReporteDetalleApartamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\ReporteDetalleCasa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\ReporteDetalleCasa.Designer.cs">
+      <DependentUpon>ReporteDetalleCasa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\ReporteDetalleTerreno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\ReporteDetalleTerreno.Designer.cs">
+      <DependentUpon>ReporteDetalleTerreno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\ReporteEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\ReporteEmpleados.Designer.cs">
+      <DependentUpon>ReporteEmpleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\ReporteIngresoApartamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\ReporteIngresoApartamentos.Designer.cs">
+      <DependentUpon>ReporteIngresoApartamentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\ReporteIngresoCasas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\ReporteIngresoCasas.Designer.cs">
+      <DependentUpon>ReporteIngresoCasas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\ReporteIngresoTerrenos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\ReporteIngresoTerrenos.Designer.cs">
+      <DependentUpon>ReporteIngresoTerrenos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\ReporteVenta_Apartemento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\ReporteVenta_Apartemento.Designer.cs">
+      <DependentUpon>ReporteVenta_Apartemento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\ReporteVenta_Casa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\ReporteVenta_Casa.Designer.cs">
+      <DependentUpon>ReporteVenta_Casa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\ReporteVenta_Terreno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\ReporteVenta_Terreno.Designer.cs">
+      <DependentUpon>ReporteVenta_Terreno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\TodosLosReportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\TodosLosReportes.Designer.cs">
+      <DependentUpon>TodosLosReportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CRUD\buscar_apar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CRUD\buscar_apar.Designer.cs">
+      <DependentUpon>buscar_apar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CRUD\buscar_casa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CRUD\buscar_casa.Designer.cs">
+      <DependentUpon>buscar_casa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CRUD\buscar_cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CRUD\buscar_cliente.Designer.cs">
+      <DependentUpon>buscar_cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CRUD\buscar_terreno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CRUD\buscar_terreno.Designer.cs">
+      <DependentUpon>buscar_terreno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CRUD\frmCompraApar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CRUD\frmCompraApar.Designer.cs">
+      <DependentUpon>frmCompraApar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CRUD\frmCompraCasa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CRUD\frmCompraCasa.Designer.cs">
+      <DependentUpon>frmCompraCasa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CRUD\frmCompraTerreno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CRUD\frmCompraTerreno.Designer.cs">
+      <DependentUpon>frmCompraTerreno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CRUD\frmConfiguracion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CRUD\frmConfiguracion.Designer.cs">
+      <DependentUpon>frmConfiguracion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CRUD\frmEmpresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CRUD\frmEmpresa.Designer.cs">
+      <DependentUpon>frmEmpresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CRUD\frmEstadisticas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CRUD\frmEstadisticas.Designer.cs">
+      <DependentUpon>frmEstadisticas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CRUD\frmGaleria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CRUD\frmGaleria.Designer.cs">
+      <DependentUpon>frmGaleria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CRUD\FrmHistorialCitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CRUD\FrmHistorialCitas.Designer.cs">
+      <DependentUpon>FrmHistorialCitas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CRUD\frmimagen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CRUD\frmimagen.Designer.cs">
+      <DependentUpon>frmimagen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CRUD\frmRoot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CRUD\frmRoot.Designer.cs">
+      <DependentUpon>frmRoot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CRUD\frm_ventaApar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CRUD\frm_ventaApar.Designer.cs">
+      <DependentUpon>frm_ventaApar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CRUD\frm_ventaCasa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CRUD\frm_ventaCasa.Designer.cs">
+      <DependentUpon>frm_ventaCasa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CRUD\frm_ventaTerr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CRUD\frm_ventaTerr.Designer.cs">
+      <DependentUpon>frm_ventaTerr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CRUD\historialFactura_Apar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CRUD\historialFactura_Apar.Designer.cs">
+      <DependentUpon>historialFactura_Apar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CRUD\historialFactura_Casa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CRUD\historialFactura_Casa.Designer.cs">
+      <DependentUpon>historialFactura_Casa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CRUD\historialFactura_Terreno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CRUD\historialFactura_Terreno.Designer.cs">
+      <DependentUpon>historialFactura_Terreno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\LOGIN\FrmCambiarContraseña.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\LOGIN\FrmCambiarContraseña.Designer.cs">
+      <DependentUpon>FrmCambiarContraseña.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\LOGIN\Eleccion_recuperar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\LOGIN\Eleccion_recuperar.Designer.cs">
+      <DependentUpon>Eleccion_recuperar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CRUD\frmApartamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CRUD\frmApartamentos.Designer.cs">
+      <DependentUpon>frmApartamentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CRUD\frmCasas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CRUD\frmCasas.Designer.cs">
+      <DependentUpon>frmCasas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CRUD\FrmCita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CRUD\FrmCita.Designer.cs">
+      <DependentUpon>FrmCita.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CRUD\frmExpCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CRUD\frmExpCliente.Designer.cs">
+      <DependentUpon>frmExpCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CRUD\frmExpEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CRUD\frmExpEmpleados.Designer.cs">
+      <DependentUpon>frmExpEmpleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\LOGIN\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\LOGIN\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\LOGIN\FrmPreguntasSeguridad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\LOGIN\FrmPreguntasSeguridad.Designer.cs">
+      <DependentUpon>FrmPreguntasSeguridad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CRUD\frmTerreno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CRUD\frmTerreno.Designer.cs">
+      <DependentUpon>frmTerreno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CRUD\FrmTipo_Venta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CRUD\FrmTipo_Venta.Designer.cs">
+      <DependentUpon>FrmTipo_Venta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\PRIMER_USO\PrimerUso2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\PRIMER_USO\PrimerUso2.Designer.cs">
+      <DependentUpon>PrimerUso2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\PRIMER_USO\PrimerUso3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\PRIMER_USO\PrimerUso3.Designer.cs">
+      <DependentUpon>PrimerUso3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\PRIMER_USO\PrimerUso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\PRIMER_USO\PrimerUso.Designer.cs">
+      <DependentUpon>PrimerUso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\LOGIN\Recuperación_correo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\LOGIN\Recuperación_correo.Designer.cs">
+      <DependentUpon>Recuperación_correo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\PRIMER_USO\Seguridad.cs" />
+    <Compile Include="Vista\Splashscreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Splashscreen.Designer.cs">
+      <DependentUpon>Splashscreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\CRUD\Tipo_propiedades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\CRUD\Tipo_propiedades.Designer.cs">
+      <DependentUpon>Tipo_propiedades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vista\LOGIN\RecuperacionAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\LOGIN\RecuperacionAdmin.Designer.cs">
+      <DependentUpon>RecuperacionAdmin.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Graficas\frmGraficas.resx">
+      <DependentUpon>frmGraficas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Idioma\Ingles.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Ingles.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\Expediente_Clientes.resx">
+      <DependentUpon>Expediente_Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\Report1.rdlc" />
+    <EmbeddedResource Include="Reportes\Report2.rdlc" />
+    <EmbeddedResource Include="Reportes\Report3.rdlc" />
+    <EmbeddedResource Include="Reportes\Report4.rdlc" />
+    <EmbeddedResource Include="Reportes\DetalleApartamento.rdlc" />
+    <EmbeddedResource Include="Reportes\DetalleTerreno.rdlc" />
+    <EmbeddedResource Include="Reportes\DetalleCasa.rdlc" />
+    <EmbeddedResource Include="Reportes\ReporteEmpleados.rdlc" />
+    <EmbeddedResource Include="Reportes\ReporteDetalleApartamento.resx">
+      <DependentUpon>ReporteDetalleApartamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ReporteDetalleCasa.resx">
+      <DependentUpon>ReporteDetalleCasa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ReporteDetalleTerreno.resx">
+      <DependentUpon>ReporteDetalleTerreno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ReporteEmpleados.resx">
+      <DependentUpon>ReporteEmpleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ReporteIngresoApartamentos.rdlc" />
+    <EmbeddedResource Include="Reportes\ReporteIngresoApartamentos.resx">
+      <DependentUpon>ReporteIngresoApartamentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ReporteIngresoCasas.rdlc" />
+    <EmbeddedResource Include="Reportes\ReporteIngresoCasas.resx">
+      <DependentUpon>ReporteIngresoCasas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ReporteIngresoTerrenos.rdlc" />
+    <EmbeddedResource Include="Reportes\ReporteIngresoTerrenos.resx">
+      <DependentUpon>ReporteIngresoTerrenos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ReporteVenta_Apartemento.resx">
+      <DependentUpon>ReporteVenta_Apartemento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ReporteVenta_Casa.resx">
+      <DependentUpon>ReporteVenta_Casa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ReporteVenta_Terreno.resx">
+      <DependentUpon>ReporteVenta_Terreno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\TodosLosReportes.resx">
+      <DependentUpon>TodosLosReportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CRUD\buscar_apar.resx">
+      <DependentUpon>buscar_apar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CRUD\buscar_casa.resx">
+      <DependentUpon>buscar_casa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CRUD\buscar_cliente.resx">
+      <DependentUpon>buscar_cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CRUD\buscar_terreno.resx">
+      <DependentUpon>buscar_terreno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CRUD\frmCasas.resx">
+      <DependentUpon>frmCasas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CRUD\frmCompraApar.resx">
+      <DependentUpon>frmCompraApar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CRUD\frmCompraCasa.resx">
+      <DependentUpon>frmCompraCasa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CRUD\frmCompraTerreno.resx">
+      <DependentUpon>frmCompraTerreno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CRUD\frmConfiguracion.resx">
+      <DependentUpon>frmConfiguracion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CRUD\frmEmpresa.resx">
+      <DependentUpon>frmEmpresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CRUD\frmEstadisticas.resx">
+      <DependentUpon>frmEstadisticas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CRUD\frmGaleria.resx">
+      <DependentUpon>frmGaleria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CRUD\FrmHistorialCitas.resx">
+      <DependentUpon>FrmHistorialCitas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CRUD\frmimagen.resx">
+      <DependentUpon>frmimagen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CRUD\frmRoot.resx">
+      <DependentUpon>frmRoot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CRUD\frm_ventaApar.resx">
+      <DependentUpon>frm_ventaApar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CRUD\frm_ventaCasa.resx">
+      <DependentUpon>frm_ventaCasa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CRUD\frm_ventaTerr.resx">
+      <DependentUpon>frm_ventaTerr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CRUD\historialFactura_Apar.resx">
+      <DependentUpon>historialFactura_Apar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CRUD\historialFactura_Casa.resx">
+      <DependentUpon>historialFactura_Casa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CRUD\historialFactura_Terreno.resx">
+      <DependentUpon>historialFactura_Terreno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\LOGIN\FrmCambiarContraseña.resx">
+      <DependentUpon>FrmCambiarContraseña.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\LOGIN\Eleccion_recuperar.resx">
+      <DependentUpon>Eleccion_recuperar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CRUD\frmApartamentos.resx">
+      <DependentUpon>frmApartamentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CRUD\FrmCita.resx">
+      <DependentUpon>FrmCita.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CRUD\frmExpCliente.resx">
+      <DependentUpon>frmExpCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CRUD\frmExpEmpleados.resx">
+      <DependentUpon>frmExpEmpleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\LOGIN\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\LOGIN\FrmPreguntasSeguridad.resx">
+      <DependentUpon>FrmPreguntasSeguridad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CRUD\frmTerreno.resx">
+      <DependentUpon>frmTerreno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CRUD\FrmTipo_Venta.resx">
+      <DependentUpon>FrmTipo_Venta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\PRIMER_USO\PrimerUso2.resx">
+      <DependentUpon>PrimerUso2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\PRIMER_USO\PrimerUso3.resx">
+      <DependentUpon>PrimerUso3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\PRIMER_USO\PrimerUso.resx">
+      <DependentUpon>PrimerUso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\LOGIN\Recuperación_correo.resx">
+      <DependentUpon>Recuperación_correo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Splashscreen.resx">
+      <DependentUpon>Splashscreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CRUD\Tipo_propiedades.resx">
+      <DependentUpon>Tipo_propiedades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Vista\LOGIN\RecuperacionAdmin.resx">
+      <DependentUpon>RecuperacionAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Reportes\DataSetClientes.xsc">
+      <DependentUpon>DataSetClientes.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetClientes.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetClientes.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataSetClientes.xss">
+      <DependentUpon>DataSetClientes.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetDetalleApartamento.xsc">
+      <DependentUpon>DataSetDetalleApartamento.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetDetalleApartamento.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetDetalleApartamento.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataSetDetalleApartamento.xss">
+      <DependentUpon>DataSetDetalleApartamento.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetDetalleCasa.xsc">
+      <DependentUpon>DataSetDetalleCasa.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetDetalleCasa.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetDetalleCasa.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataSetDetalleCasa.xss">
+      <DependentUpon>DataSetDetalleCasa.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetDetalleTerreno.xsc">
+      <DependentUpon>DataSetDetalleTerreno.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetDetalleTerreno.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetDetalleTerreno.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataSetDetalleTerreno.xss">
+      <DependentUpon>DataSetDetalleTerreno.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetEmpleados.xsc">
+      <DependentUpon>DataSetEmpleados.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetEmpleados.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetEmpleados.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataSetEmpleados.xss">
+      <DependentUpon>DataSetEmpleados.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetFactura_Apar.xsc">
+      <DependentUpon>DataSetFactura_Apar.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetFactura_Apar.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetFactura_Apar.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataSetFactura_Apar.xss">
+      <DependentUpon>DataSetFactura_Apar.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetFactura_Casa.xsc">
+      <DependentUpon>DataSetFactura_Casa.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetFactura_Casa.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetFactura_Casa.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataSetFactura_Casa.xss">
+      <DependentUpon>DataSetFactura_Casa.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetFactura_Terreno.xsc">
+      <DependentUpon>DataSetFactura_Terreno.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetFactura_Terreno.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetFactura_Terreno.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataSetFactura_Terreno.xss">
+      <DependentUpon>DataSetFactura_Terreno.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetIngresoApartamentos.xsc">
+      <DependentUpon>DataSetIngresoApartamentos.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetIngresoApartamentos.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetIngresoApartamentos.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataSetIngresoApartamentos.xss">
+      <DependentUpon>DataSetIngresoApartamentos.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetIngresoCasas.xsc">
+      <DependentUpon>DataSetIngresoCasas.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetIngresoCasas.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetIngresoCasas.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataSetIngresoCasas.xss">
+      <DependentUpon>DataSetIngresoCasas.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetIngresoTerrenos.xsc">
+      <DependentUpon>DataSetIngresoTerrenos.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetIngresoTerrenos.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetIngresoTerrenos.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataSetIngresoTerrenos.xss">
+      <DependentUpon>DataSetIngresoTerrenos.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\Info_Apar.xsc">
+      <DependentUpon>Info_Apar.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\Info_Apar.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Info_Apar.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\Info_Apar.xss">
+      <DependentUpon>Info_Apar.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

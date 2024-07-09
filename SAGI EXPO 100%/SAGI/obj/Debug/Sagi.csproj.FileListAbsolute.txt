@@ -1,0 +1,391 @@
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\bin\Debug\stdole.dll
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\bin\Debug\MySql.Data.xml
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\Sagi.csprojResolveAssemblyReference.cache
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Graficas.frmGraficas.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.Expediente_Clientes.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteDetalleApartamento.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteDetalleCasa.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteDetalleTerreno.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteEmpleados.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteIngresoApartamentos.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteIngresoCasas.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteIngresoTerrenos.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteVenta_Apartemento.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteVenta_Casa.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteVenta_Terreno.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.TodosLosReportes.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.buscar_apar.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.buscar_casa.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.buscar_cliente.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.buscar_terreno.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.frmCasas.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmCompraApar.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmCompraCasa.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmCompraTerreno.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmConfiguracion.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmEmpresa.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmEstadisticas.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmGaleria.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.FrmHistorialCitas.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmimagen.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmRoot.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frm_ventaApar.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frm_ventaCasa.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frm_ventaTerr.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.historialFactura_Apar.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.historialFactura_Casa.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.historialFactura_Terreno.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.LOGIN.FrmCambiarContraseña.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Eleccion_recuperar.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Interfaces.frmApartamentos.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.FrmCita.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.frmExpCliente.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Interfaces.frmExpEmpleados.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.frmLogin.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.FrmPreguntasSeguridad.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Interfaces.frmTerreno.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.FrmTipo_Venta.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.PrimerUsoSeguridad.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.Primer_uso.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.Primer_uso2.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Interfaces.Recuperación_correo.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.Splashscreen.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Interfaces.Tipo_propiedades.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.frmRecuperarContraseña.resources
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\Sagi.csproj.GenerateResource.Cache
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\RdlCompile.cache
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\RdlCompile.compiled
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Diego Castro\Desktop\DEFENSA DEL 100_\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI 99_ por Castroll - Fran\SAGI por Castro\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI 99_ por Castroll - Fran\SAGI por Castro\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\stdole.dll
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\MySql.Data.xml
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\Sagi.csprojResolveAssemblyReference.cache
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Graficas.frmGraficas.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.Expediente_Clientes.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteDetalleApartamento.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteDetalleCasa.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteDetalleTerreno.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteEmpleados.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteIngresoApartamentos.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteIngresoCasas.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteIngresoTerrenos.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteVenta_Apartemento.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteVenta_Casa.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteVenta_Terreno.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.TodosLosReportes.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.buscar_apar.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.buscar_casa.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.buscar_cliente.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.buscar_terreno.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.frmCasas.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmCompraApar.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmCompraCasa.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmCompraTerreno.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmConfiguracion.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmEmpresa.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmEstadisticas.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmGaleria.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.FrmHistorialCitas.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmimagen.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmRoot.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frm_ventaApar.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frm_ventaCasa.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frm_ventaTerr.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.historialFactura_Apar.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.historialFactura_Casa.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.historialFactura_Terreno.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.LOGIN.FrmCambiarContraseña.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Eleccion_recuperar.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Interfaces.frmApartamentos.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.FrmCita.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.frmExpCliente.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Interfaces.frmExpEmpleados.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.frmLogin.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.FrmPreguntasSeguridad.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Interfaces.frmTerreno.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.FrmTipo_Venta.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.PrimerUsoSeguridad.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.Primer_uso.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.Primer_uso2.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Interfaces.Recuperación_correo.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.Splashscreen.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Interfaces.Tipo_propiedades.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.frmRecuperarContraseña.resources
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\Sagi.csproj.GenerateResource.Cache
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\RdlCompile.cache
+C:\Users\Diego Castro\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\RdlCompile.compiled
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\stdole.dll
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\MySql.Data.xml
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\Sagi.csprojResolveAssemblyReference.cache
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Graficas.frmGraficas.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.Expediente_Clientes.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteDetalleApartamento.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteDetalleCasa.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteDetalleTerreno.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteEmpleados.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteIngresoApartamentos.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteIngresoCasas.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteIngresoTerrenos.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteVenta_Apartemento.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteVenta_Casa.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteVenta_Terreno.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.TodosLosReportes.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.buscar_apar.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.buscar_casa.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.buscar_cliente.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.buscar_terreno.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.frmCasas.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmCompraApar.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmCompraCasa.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmCompraTerreno.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmConfiguracion.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmEmpresa.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmEstadisticas.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmGaleria.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.FrmHistorialCitas.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmimagen.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmRoot.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frm_ventaApar.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frm_ventaCasa.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frm_ventaTerr.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.historialFactura_Apar.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.historialFactura_Casa.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.historialFactura_Terreno.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.LOGIN.FrmCambiarContraseña.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Eleccion_recuperar.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Interfaces.frmApartamentos.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.FrmCita.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.frmExpCliente.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Interfaces.frmExpEmpleados.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.frmLogin.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.FrmPreguntasSeguridad.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Interfaces.frmTerreno.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.FrmTipo_Venta.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.PrimerUsoSeguridad.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.Primer_uso.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.Primer_uso2.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Interfaces.Recuperación_correo.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.Splashscreen.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Interfaces.Tipo_propiedades.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.frmRecuperarContraseña.resources
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\Sagi.csproj.GenerateResource.Cache
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\RdlCompile.cache
+C:\Users\frajo\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\RdlCompile.compiled
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\stdole.dll
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\MySql.Data.xml
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\Sagi.csprojResolveAssemblyReference.cache
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Graficas.frmGraficas.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.Expediente_Clientes.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteDetalleApartamento.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteDetalleCasa.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteDetalleTerreno.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteEmpleados.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteIngresoApartamentos.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteIngresoCasas.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteIngresoTerrenos.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteVenta_Apartemento.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteVenta_Casa.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteVenta_Terreno.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.TodosLosReportes.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.buscar_apar.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.buscar_casa.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.buscar_cliente.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.buscar_terreno.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.frmCasas.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmCompraApar.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmCompraCasa.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmCompraTerreno.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmConfiguracion.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmEmpresa.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmEstadisticas.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmGaleria.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.FrmHistorialCitas.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmimagen.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmRoot.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frm_ventaApar.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frm_ventaCasa.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frm_ventaTerr.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.historialFactura_Apar.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.historialFactura_Casa.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.historialFactura_Terreno.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.LOGIN.FrmCambiarContraseña.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Eleccion_recuperar.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Interfaces.frmApartamentos.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.FrmCita.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.frmExpCliente.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Interfaces.frmExpEmpleados.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.frmLogin.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.FrmPreguntasSeguridad.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Interfaces.frmTerreno.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.FrmTipo_Venta.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.PrimerUsoSeguridad.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.Primer_uso.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.Primer_uso2.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Interfaces.Recuperación_correo.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.Splashscreen.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Interfaces.Tipo_propiedades.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.frmRecuperarContraseña.resources
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\Sagi.csproj.GenerateResource.Cache
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\RdlCompile.cache
+C:\Users\Diego Castro\Desktop\Sistema Jueves Final\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\RdlCompile.compiled
+C:\Users\Fidel\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Fidel\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Fidel\Desktop\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\Sagi.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Graficas.frmGraficas.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Idioma.Ingles.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.Expediente_Clientes.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteDetalleApartamento.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteDetalleCasa.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteDetalleTerreno.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteEmpleados.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteIngresoApartamentos.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteIngresoCasas.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteIngresoTerrenos.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteVenta_Apartemento.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteVenta_Casa.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.ReporteVenta_Terreno.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Reportes.TodosLosReportes.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.buscar_apar.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.buscar_casa.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.buscar_cliente.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.buscar_terreno.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.frmCasas.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmCompraApar.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmCompraCasa.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmCompraTerreno.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmConfiguracion.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmEmpresa.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmEstadisticas.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmGaleria.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.FrmHistorialCitas.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmimagen.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frmRoot.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frm_ventaApar.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frm_ventaCasa.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.frm_ventaTerr.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.historialFactura_Apar.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.historialFactura_Casa.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.CRUD.historialFactura_Terreno.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.LOGIN.FrmCambiarContraseña.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Eleccion_recuperar.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Interfaces.frmApartamentos.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.FrmCita.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.frmExpCliente.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Interfaces.frmExpEmpleados.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.frmLogin.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.FrmPreguntasSeguridad.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Interfaces.frmTerreno.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.FrmTipo_Venta.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.PrimerUsoSeguridad.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.Primer_uso.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.Primer_uso2.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Interfaces.Recuperación_correo.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Vista.Splashscreen.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Interfaces.Tipo_propiedades.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.frmRecuperarContraseña.resources
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\Sagi.csproj.GenerateResource.cache
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\Sagi.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\acer\Documents\Alexis\SAGI 100% EXPO\SAGI EXPO 100%\SAGI por Castro\obj\Debug\WindowsFormsApplication1.pdb

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Info_Apar" targetNamespace="http://tempuri.org/Info_Apar.xsd" xmlns:mstns="http://tempuri.org/Info_Apar.xsd" xmlns="http://tempuri.org/Info_Apar.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ConnectionString (Settings)" PropertyReference="ApplicationSettings.WindowsFormsApplication1.Properties.Settings.GlobalReference.Default.ConnectionString" Provider="System.Data.Odbc" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="DataTableTableAdapter" GeneratorDataComponentClassName="DataTableTableAdapter" Name="DataTable" UserDataComponentName="DataTableTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT apartamento.precio_apartamento, apartamento.descripcion_apar, apartamento.direccion_apartamento, apartamento.area_departamento
+FROM     detalleapar, apartamento
+WHERE  detalleapar.apartamento = apartamento.id_apartamento AND (detalleapar.id_factura =
+                      (SELECT MAX(id_factura) AS Expr1
+                       FROM      detalleapar detalleapar_1))</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="precio_apartamento" DataSetColumn="precio_apartamento" />
+              <Mapping SourceColumn="descripcion_apar" DataSetColumn="descripcion_apar" />
+              <Mapping SourceColumn="direccion_apartamento" DataSetColumn="direccion_apartamento" />
+              <Mapping SourceColumn="area_departamento" DataSetColumn="area_departamento" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Info_Apar" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="Info_Apar" msprop:Generator_UserDSName="Info_Apar">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable" msprop:Generator_TableClassName="DataTableDataTable" msprop:Generator_TableVarName="tableDataTable" msprop:Generator_RowChangedName="DataTableRowChanged" msprop:Generator_TablePropName="DataTable" msprop:Generator_RowDeletingName="DataTableRowDeleting" msprop:Generator_RowChangingName="DataTableRowChanging" msprop:Generator_RowEvHandlerName="DataTableRowChangeEventHandler" msprop:Generator_RowDeletedName="DataTableRowDeleted" msprop:Generator_RowClassName="DataTableRow" msprop:Generator_UserTableName="DataTable" msprop:Generator_RowEvArgName="DataTableRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="precio_apartamento" msprop:Generator_ColumnVarNameInTable="columnprecio_apartamento" msprop:Generator_ColumnPropNameInRow="precio_apartamento" msprop:Generator_ColumnPropNameInTable="precio_apartamentoColumn" msprop:Generator_UserColumnName="precio_apartamento" type="xs:int" />
+              <xs:element name="descripcion_apar" msprop:Generator_ColumnVarNameInTable="columndescripcion_apar" msprop:Generator_ColumnPropNameInRow="descripcion_apar" msprop:Generator_ColumnPropNameInTable="descripcion_aparColumn" msprop:Generator_UserColumnName="descripcion_apar">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="direccion_apartamento" msprop:Generator_ColumnVarNameInTable="columndireccion_apartamento" msprop:Generator_ColumnPropNameInRow="direccion_apartamento" msprop:Generator_ColumnPropNameInTable="direccion_apartamentoColumn" msprop:Generator_UserColumnName="direccion_apartamento">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="area_departamento" msprop:Generator_ColumnVarNameInTable="columnarea_departamento" msprop:Generator_ColumnPropNameInRow="area_departamento" msprop:Generator_ColumnPropNameInTable="area_departamentoColumn" msprop:Generator_UserColumnName="area_departamento" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetIngresoCasas" targetNamespace="http://tempuri.org/DataSetIngresoCasas.xsd" xmlns:mstns="http://tempuri.org/DataSetIngresoCasas.xsd" xmlns="http://tempuri.org/DataSetIngresoCasas.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ConnectionString (Settings)" PropertyReference="ApplicationSettings.WindowsFormsApplication1.Properties.Settings.GlobalReference.Default.ConnectionString" Provider="System.Data.Odbc" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="DataTableTableAdapter" GeneratorDataComponentClassName="DataTableTableAdapter" Name="DataTable" UserDataComponentName="DataTableTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="ReporteIngresoCasas" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="ReporteIngresoCasas" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="ReporteIngresoCasas">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        casa.direccion_casa AS Direccion, departamento.departamento AS Departamento, municipios.municipio AS Municipio, casa.numero_pisos_casa AS Pisos, casa.numero_cuartos_casa AS Cuartos, 
+                         casa.`numero_baños_casa` AS Baños, casa.area_casa AS Area, casa.numero_garage AS Garages, casa.numero_patio AS Patios, tipo_casa.tipo_casa AS Tipo_Casa, casa.precio_casa AS Precio
+FROM            casa, estadopropiedad, departamento, municipios, tipo_casa
+WHERE        estadopropiedad.id_estado = casa.estado AND departamento.id_departamento = casa.id_departamento AND municipios.id_municipio = casa.municipio_casa AND tipo_casa.id_tipoCasa = casa.tipoCasa</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Direccion" DataSetColumn="Direccion" />
+              <Mapping SourceColumn="Departamento" DataSetColumn="Departamento" />
+              <Mapping SourceColumn="Municipio" DataSetColumn="Municipio" />
+              <Mapping SourceColumn="Pisos" DataSetColumn="Pisos" />
+              <Mapping SourceColumn="Cuartos" DataSetColumn="Cuartos" />
+              <Mapping SourceColumn="Baños" DataSetColumn="Baños" />
+              <Mapping SourceColumn="Area" DataSetColumn="Area" />
+              <Mapping SourceColumn="Garages" DataSetColumn="Garages" />
+              <Mapping SourceColumn="Patios" DataSetColumn="Patios" />
+              <Mapping SourceColumn="Tipo_Casa" DataSetColumn="Tipo_Casa" />
+              <Mapping SourceColumn="Precio" DataSetColumn="Precio" />
+            </Mappings>
+            <Sources>
+              <DbSource ConnectionRef="ConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="BusquedaParametrizadaCasas" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataBy" GeneratorSourceName="BusquedaParametrizadaCasas" GetMethodModifier="Public" GetMethodName="GetDataBy" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy" UserSourceName="BusquedaParametrizadaCasas">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        casa.direccion_casa AS Direccion, departamento.departamento AS Departamento, municipios.municipio AS Municipio, casa.numero_pisos_casa AS Pisos, casa.numero_cuartos_casa AS Cuartos, 
+                         casa.`numero_baños_casa` AS Baños, casa.area_casa AS Area, casa.numero_garage AS Garages, casa.numero_patio AS Patios, tipo_casa.tipo_casa AS Tipo_Casa, casa.precio_casa AS Precio
+FROM            casa, estadopropiedad, departamento, municipios, tipo_casa
+WHERE        casa.estado = estadopropiedad.id_estado AND casa.id_departamento = departamento.id_departamento AND casa.municipio_casa = municipios.id_municipio AND casa.tipoCasa = tipo_casa.id_tipoCasa AND 
+                         (casa.id_departamento = ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param1" ColumnName="id_departamento" DataSourceName="inmuebles.casa" DataTypeServer="integer" DbType="Int32" Direction="Input" ParameterName="id_departamento" Precision="0" Scale="0" Size="0" SourceColumn="id_departamento" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetIngresoCasas" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetIngresoCasas" msprop:Generator_UserDSName="DataSetIngresoCasas">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable" msprop:Generator_TableClassName="DataTableDataTable" msprop:Generator_TableVarName="tableDataTable" msprop:Generator_RowChangedName="DataTableRowChanged" msprop:Generator_TablePropName="DataTable" msprop:Generator_RowDeletingName="DataTableRowDeleting" msprop:Generator_RowChangingName="DataTableRowChanging" msprop:Generator_RowEvHandlerName="DataTableRowChangeEventHandler" msprop:Generator_RowDeletedName="DataTableRowDeleted" msprop:Generator_RowClassName="DataTableRow" msprop:Generator_UserTableName="DataTable" msprop:Generator_RowEvArgName="DataTableRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Direccion" msprop:Generator_ColumnVarNameInTable="columnDireccion" msprop:Generator_ColumnPropNameInRow="Direccion" msprop:Generator_ColumnPropNameInTable="DireccionColumn" msprop:Generator_UserColumnName="Direccion">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Departamento" msprop:Generator_ColumnVarNameInTable="columnDepartamento" msprop:Generator_ColumnPropNameInRow="Departamento" msprop:Generator_ColumnPropNameInTable="DepartamentoColumn" msprop:Generator_UserColumnName="Departamento" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Municipio" msprop:Generator_ColumnVarNameInTable="columnMunicipio" msprop:Generator_ColumnPropNameInRow="Municipio" msprop:Generator_ColumnPropNameInTable="MunicipioColumn" msprop:Generator_UserColumnName="Municipio" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Pisos" msprop:Generator_ColumnVarNameInTable="columnPisos" msprop:Generator_ColumnPropNameInRow="Pisos" msprop:Generator_ColumnPropNameInTable="PisosColumn" msprop:Generator_UserColumnName="Pisos" type="xs:int" />
+              <xs:element name="Cuartos" msprop:Generator_ColumnVarNameInTable="columnCuartos" msprop:Generator_ColumnPropNameInRow="Cuartos" msprop:Generator_ColumnPropNameInTable="CuartosColumn" msprop:Generator_UserColumnName="Cuartos" type="xs:int" />
+              <xs:element name="Baños" msprop:Generator_ColumnVarNameInTable="columnBaños" msprop:Generator_ColumnPropNameInRow="Baños" msprop:Generator_ColumnPropNameInTable="BañosColumn" msprop:Generator_UserColumnName="Baños" type="xs:int" />
+              <xs:element name="Area" msprop:Generator_ColumnVarNameInTable="columnArea" msprop:Generator_ColumnPropNameInRow="Area" msprop:Generator_ColumnPropNameInTable="AreaColumn" msprop:Generator_UserColumnName="Area" type="xs:int" />
+              <xs:element name="Garages" msprop:Generator_ColumnVarNameInTable="columnGarages" msprop:Generator_ColumnPropNameInRow="Garages" msprop:Generator_ColumnPropNameInTable="GaragesColumn" msprop:Generator_UserColumnName="Garages" type="xs:int" minOccurs="0" />
+              <xs:element name="Patios" msprop:Generator_ColumnVarNameInTable="columnPatios" msprop:Generator_ColumnPropNameInRow="Patios" msprop:Generator_ColumnPropNameInTable="PatiosColumn" msprop:Generator_UserColumnName="Patios" type="xs:int" minOccurs="0" />
+              <xs:element name="Tipo_Casa" msprop:Generator_ColumnVarNameInTable="columnTipo_Casa" msprop:Generator_ColumnPropNameInRow="Tipo_Casa" msprop:Generator_ColumnPropNameInTable="Tipo_CasaColumn" msprop:Generator_UserColumnName="Tipo_Casa">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Precio" msprop:Generator_ColumnVarNameInTable="columnPrecio" msprop:Generator_ColumnPropNameInRow="Precio" msprop:Generator_ColumnPropNameInTable="PrecioColumn" msprop:Generator_UserColumnName="Precio" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
